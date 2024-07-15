@@ -1,4 +1,4 @@
-# Olá eu sou o Lucas Reis
+# Olá! Eu sou o Lucas Reis 👋
 
 <!--
 **LucasReis26/LucasReis26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
