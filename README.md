@@ -1,6 +1,6 @@
 # Olá! Eu sou o Lucas Reis 👋
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)(https://www.youtube.com/@LucasReisDev)]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LucasReisDev)
 
 <!--
 **LucasReis26/LucasReis26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
