@@ -23,4 +23,4 @@
 
 ## Sobre mim
 
-&nbsp;Olá! Eu sou o Lucas, tenho 23 anos e sou um estudante do curso de Ciência da Computação na PUC-Minas.
+&emsp;Olá! Eu sou o Lucas, tenho 23 anos e sou um estudante do curso de Ciência da Computação na PUC-Minas.
