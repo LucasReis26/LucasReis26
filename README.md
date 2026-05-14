@@ -17,7 +17,6 @@
     </a>
 </div>
 
-![Lucas Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=LUcasReis26&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia a dia
 
