@@ -6,10 +6,14 @@
     <a href="https://www.linkedin.com/in/lucasreis26/">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
     </a>
+    <a href="https://www.instagram.com/lucasreis26_">
+        <img alt="Instagram Banner" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
+    </a>
+    <a href="https://www.youtube.com/@dev.lucasReis">
+        <img alt="YouTube Banner" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img>
+    </a>
 </div>
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dev.lucasReis)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasreis26_)
 ![Lucas Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=LUcasReis26&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia a dia
