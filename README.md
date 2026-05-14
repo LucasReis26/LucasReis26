@@ -1,6 +1,6 @@
-![COMP Banner](./img/comp-banner.png)
+<img alt="COMP Banner" src="./img/comp-banner.png" >
 
-# Olá! Eu sou o Lucas Reis 👋
+---
 
 <div align="center">
     <table align="center">
@@ -34,6 +34,10 @@
         </tr>
     </table>
 </div>
+
+---
+
+# Olá! Eu sou o Lucas Reis 👋
 
 ## Linguagens e Ferramentas
 
