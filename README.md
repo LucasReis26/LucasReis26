@@ -1,3 +1,8 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/app/ci.min.css"
+/>
+
 ![COMP Banner](./img/comp-banner.png)
 
 # Olá! Eu sou o Lucas Reis 👋
@@ -11,6 +16,9 @@
     </a>
     <a href="https://www.youtube.com/@dev.lucasReis">
         <img alt="YouTube Banner" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img>
+    </a>
+    <a href="https://wa.me/5531986665956">
+        <i class="ci ci-whatsapp"></i>
     </a>
 </div>
 
