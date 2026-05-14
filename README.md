@@ -2,19 +2,37 @@
 
 # Olá! Eu sou o Lucas Reis 👋
 
-<div style="display: inline_block; text-align: center">
-    <a href="https://www.linkedin.com/in/lucasreis26/" style="text-decoration: none">
-        <img alt="Linkedin Icon" src="./img/icons/linkedin.png" width="48"></img>
-    </a>
-    <a href="https://wa.me/5531986665956" style="text-decoration: none">
-        <img alt="Whatsapp Icon" src="./img/icons/whatsapp.png" width="48"></img>
-    </a>
-    <a href="https://www.youtube.com/@dev.lucasReis" style="text-decoration: none">
-        <img alt="YouTube Icon" src="./img/icons/youtube.png" width="48"></img>
-    </a>
-    <a href="https://www.instagram.com/lucasreis26_" style="text-decoration: none">
-        <img alt="Instagram Icon" src="./img/icons/instagram.png" width="48"></img>
-    </a>
+<div align="center">
+    <table align="center">
+        <tr>
+            <td align="center" colspan="4"></td>
+        </tr>
+        <tr>
+            <td align="center">
+                <a href="https://www.linkedin.com/in/lucasreis26/">
+                    <img alt="Linkedin Icon" src="./img/icons/linkedin.png" width="48"></img>
+                </a>
+            </td>
+            <td>
+                <a href="https://wa.me/5531986665956">
+                    <img alt="Whatsapp Icon" src="./img/icons/whatsapp.png" width="48"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.youtube.com/@dev.lucasReis">
+                    <img alt="YouTube Icon" src="./img/icons/youtube.png" width="48"></img>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://www.instagram.com/lucasreis26_">
+                    <img alt="Instagram Icon" src="./img/icons/instagram.png" width="48"></img>
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" colspan="4"></td>
+        </tr>
+    </table>
 </div>
 
 ## Tecnologias que eu uso no meu dia a dia
