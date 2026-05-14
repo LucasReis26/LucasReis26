@@ -1,24 +1,19 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/app/ci.min.css"
-/>
-
 ![COMP Banner](./img/comp-banner.png)
 
 # Olá! Eu sou o Lucas Reis 👋
 
 <div style="display: inline_block">
     <a href="https://www.linkedin.com/in/lucasreis26/">
-        <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
-    </a>
-    <a href="https://www.instagram.com/lucasreis26_">
-        <img alt="Instagram Banner" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img>
-    </a>
-    <a href="https://www.youtube.com/@dev.lucasReis">
-        <img alt="YouTube Banner" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img>
+        <img alt="Linkedin Icon" src="./img/icons/linkedin.png" width="48"></img>
     </a>
     <a href="https://wa.me/5531986665956">
-        <i class="ci ci-whatsapp"></i>
+        <img alt="Whatsapp Icon" src="./img/icons/whatsapp.png" width="48"></img>
+    </a>
+    <a href="https://www.youtube.com/@dev.lucasReis">
+        <img alt="YouTube Icon" src="./img/icons/youtube.png" width="48"></img>
+    </a>
+    <a href="https://www.instagram.com/lucasreis26_">
+        <img alt="Instagram Icon" src="./img/icons/instagram.png" width="48"></img>
     </a>
 </div>
 
