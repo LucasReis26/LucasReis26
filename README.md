@@ -73,6 +73,12 @@ Olá! Me chamo Lucas e sou apaixonado por tecnologia! Tenho contato com computad
             <td>
                 <img alt="JavaScript" src="./img/icons/languages/javascript.svg" width="48">
             </td>
+            <td>
+                <img src="./img/icons/languages/react.svg" alt="React" width="48">
+            </td>
+            <td>
+                <img src="./img/icons/languages/boostrap.svg" alt="Bootstrap" width="48">
+            </td>
         </tr>
         <tr>
             <td align="center" colspan="12"></td>
