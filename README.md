@@ -39,6 +39,14 @@
 
 # Olá! Eu sou o Lucas Reis 👋
 
+## Sobre mim
+
+Olá! Me chamo Lucas e sou apaixonado por tecnologia! Tenho contato com computadores desde os meus 4 anos de idade e desde então exploro tudo o que as máquinas tem a me oferecer!! Jogos, programação, edição de vídeo, streaming são áreas que eu já explorei mas que tal falar sobre o que sou através dos meus contextos sociais?
+
+- Na **PUC Minas** além de estudante do curso de Ciência da Computação eu fui monitor de **AEDs-I** duas vezes e monitor de **AEDs-II** uma vez.
+- Pros meus **amigos** sou gamer e streamer nas horas vagas, meus jogos favoritos são LoL, Minecraft e Overwatch.
+- Para minha **família** sou um atleta! Pratico corrida e atualmente estou em busca do meu primeiro pódio.
+
 ## Linguagens e Ferramentas
 
 <div align="center">
@@ -48,22 +56,22 @@
         </tr>
         <tr align="center">
             <td>
-                <img alt="C" src="./img/icons/languages/c.svg" width="64">
+                <img alt="C" src="./img/icons/languages/c.svg" width="48">
             </td>
             <td>
-                <img alt="C++" src="./img/icons/languages/c++.svg" width="64">
+                <img alt="C++" src="./img/icons/languages/c++.svg" width="48">
             </td>
             <td>
-                <img alt="Java" src="./img/icons/languages/java.svg" width="64">
+                <img alt="Java" src="./img/icons/languages/java.svg" width="48">
             </td>
             <td>
-                <img alt="html5" src="./img/icons/languages/html.svg" width="64">
+                <img alt="html5" src="./img/icons/languages/html.svg" width="48">
             </td>
             <td>
-                <img alt="css3" src="./img/icons/languages/css.svg" width="64">
+                <img alt="css3" src="./img/icons/languages/css.svg" width="48">
             </td>
             <td>
-                <img alt="JavaScript" src="./img/icons/languages/javascript.svg" width="64">
+                <img alt="JavaScript" src="./img/icons/languages/javascript.svg" width="48">
             </td>
         </tr>
         <tr>
@@ -72,6 +80,3 @@
     </table>
 </div>
 
-## Sobre mim
-
-&emsp;Olá! Eu sou o Lucas, tenho 24 anos e sou um estudante do curso de Ciência da Computação na PUC-Minas.
